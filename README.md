@@ -274,10 +274,9 @@ static void MX_GPIO_Init(void)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
- <img width="1291" height="866" alt="image" src="https://github.com/user-attachments/assets/a2ff1048-95e2-42df-9a32-aa2ef575c0fc" />
+<img width="1406" height="867" alt="image" src="https://github.com/user-attachments/assets/0ad11379-0419-4046-88e6-52404aefaacc" />
 
- 
- 
+
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
 
